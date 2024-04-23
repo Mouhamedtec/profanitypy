@@ -1,7 +1,7 @@
 # ProfanityApi Documentation
 
 ## Overview
-`ProfanityApi` is a Python class that interfaces with the ProfanityApi service to detect and filter profanity in user-generated content.
+`ProfanityApi` is a Python class that interfaces with the ProfanityApi service (https://www.profanity.dev/) to detect and filter profanity in user-generated content.
 
 ## Initialization
 - `ProfanityApi(extra_headers={})`: Initializes the API object. Optional `extra_headers` can be passed as a dictionary to include additional headers in the requests.
